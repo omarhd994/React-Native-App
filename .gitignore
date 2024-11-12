@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# build outputs
+dist/
+web-build/
+
+# environment variables
+.env
